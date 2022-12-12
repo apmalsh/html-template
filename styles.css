@@ -1,0 +1,23 @@
+html {
+  font-size: 150%;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  font-family: 'Source Sans 3', sans-serif;
+  display: flex;
+  align-items: center;
+}
+
+h1 {
+  margin: 0;
+  font-weight: 500;
+}
+
+#app {
+  max-width: 80ch;
+  margin: 0 auto;
+  padding: 1rem;
+}
